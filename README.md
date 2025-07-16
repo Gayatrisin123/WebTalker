@@ -26,7 +26,7 @@ A real-time chat application that allows multiple users to communicate over a ne
 Run the following command:
 
 ```sh
-git clone https://github.com/pkpotter03/chat-app.git
+git clone https://github.com/Gayatrisin123/Chat-Application
 cd chat-app
 ```
 
