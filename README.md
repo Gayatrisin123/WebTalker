@@ -27,7 +27,7 @@ Run the following command:
 
 ```sh
 git clone https://github.com/Gayatrisin123/Chat-Application
-cd chat-app
+cd Chat-Application
 ```
 
 ### **2. Install Dependencies**
