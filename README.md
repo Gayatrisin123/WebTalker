@@ -27,7 +27,7 @@ Run the following command:
 
 ```sh
 git clone https://github.com/Gayatrisin123/WebTalker
-cd Chat-Application
+cd WebTalker
 ```
 
 ### **2. Install Dependencies**
